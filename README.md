@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/devrkb21">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=30A14E&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Rakib+Uddin+👋;Full-Stack+Developer;Server+Admin+%26+Cloud+Enthusiast;CEO+%40+Coder+Zone+BD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=30A14E&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Rakib+Uddin+👋;Full-Stack+Developer;Server+Admin+%26+Cloud+Enthusiast;Founder+%40+Coder+Zone+BD" alt="Typing SVG" />
   </a>
 </p>
 
